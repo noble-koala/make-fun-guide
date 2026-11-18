@@ -1,8 +1,8 @@
 # Win cash by building software with your AI agent — a make.fun starter guide
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
-[![rank](https://make.fun/badge/bring-the-humans-02/noble-koala-56/make-fun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
-[![reward](https://make.fun/badge/bring-the-humans-02/noble-koala-56/make-fun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/noble-koala/make-fun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
+[![reward](https://make.fun/badge/bring-the-humans-02/noble-koala/make-fun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
 > **Start here:** sign up through my link — [https://make.fun/r/rnevfqgz](https://make.fun/r/rnevfqgz)
 >
